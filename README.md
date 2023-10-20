@@ -17,13 +17,14 @@ Para ejecutar el proyecto de ventas en tu entorno local, utiliza el siguiente co
 
 Esto iniciará un servidor de desarrollo y se podrá acceder a la aplicación en el navegador en http://localhost:8080.
 
-##Proyecto Deployado 
+## Proyecto Deployado 
+
 proyecto deployado: https://653216ab152974623a856192--remarkable-semifreddo-06b680.netlify.app
 
 
 ## Aplicación del diseño de ingeniería
 
-[]! (https://s1.qwant.com/thumbr/0x380/2/5/90cb912590286e75fbc27a676b57f21a7be004c2a6083d5a6feec7da8dabcc/f20cb6dd36379900fd6f756d7d2139f1.jpg?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Ff2%2F0c%2Fb6%2Ff20cb6dd36379900fd6f756d7d2139f1.jpg&q=0&b=1&p=0&a=0)
+![] (https://s1.qwant.com/thumbr/0x380/2/5/90cb912590286e75fbc27a676b57f21a7be004c2a6083d5a6feec7da8dabcc/f20cb6dd36379900fd6f756d7d2139f1.jpg?u=https%3A%2F%2Fi.pinimg.com%2F736x%2Ff2%2F0c%2Fb6%2Ff20cb6dd36379900fd6f756d7d2139f1.jpg&q=0&b=1&p=0&a=0)
 
 La aplicación de ventas desarrollada en Vue es un ejemplo de un sistema de Consulta de ventas. 
 
