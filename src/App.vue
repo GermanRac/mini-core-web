@@ -1,6 +1,6 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="MiniCore - Alan Pacheco"/>
+  <HelloWorld msg="MiniCore - German Racines"/>
 </template>
 
 <script>
